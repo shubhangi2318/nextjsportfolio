@@ -109,7 +109,7 @@ const resume = () => {
               plugins, and design changes as needed.
             </li>
             <li>
-              Worked on creating and implementing API's and there operations in various 
+              Worked on creating and implementing APIs and there operations in various 
               fragments of product.
             </li>
          
@@ -135,7 +135,7 @@ const resume = () => {
               placement portal and photo gallery etc.
             </li>
             <li>
-              Worked on creating and implementing API's and there operations in various 
+              Worked on creating and implementing APIs and there operations in various 
               fragments of product.
             </li>
             <li>
